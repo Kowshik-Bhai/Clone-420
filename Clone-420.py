@@ -80,7 +80,7 @@ listgrup = []
 vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
  
-os.system("clear")
+
 #### LOGO ####
 logo = """
   _  ________          _______ _    _ _____ _  __
