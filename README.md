@@ -20,4 +20,4 @@ $ git clone https://github.com/Kowshik-Bhai/Clone-420
 
 $ cd Clone-420
 
-$ python2 FDlistClone-420.py
+$ python2 Clone-420.py
